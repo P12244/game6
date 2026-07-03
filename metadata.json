@@ -1,0 +1,6 @@
+{
+  "name": "คำต้องห้าม",
+  "description": "เครื่องมือสุ่มคำในเกม คำต้องห้าม (Taboo) ออกแบบมาสำหรับการเล่นบนมือถือโดยเฉพาะ สุ่มคำชัดเจน มีหมวดหมู่หลากหลาย และสามารถเพิ่มคำเองได้",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
